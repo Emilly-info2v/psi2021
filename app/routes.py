@@ -4,4 +4,4 @@ from app import app
 @app.route('/index')
 
 def index():
-    return "Olá Mundoo"
+    return "ola mundo"
